@@ -1,5 +1,5 @@
 # PAC (PlexAntiCheat)
-__**Status: Active. Happy Easter!**__
+__**Status: Active Happy NewYears!**__
 
 <img src="https://github.com/PlexOfDevs/PAC/blob/master/poggit-icon.png" width="100" height="100" align="left"></img>
 
