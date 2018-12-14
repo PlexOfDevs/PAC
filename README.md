@@ -1,7 +1,7 @@
 # PAC (PlexAntiCheat)
 __**Status: Active. Happy Easter!**__
 
-<img src="https://github.com/PlexOfDevs/PAC/blob/master/PoggitIcon.png" width="100" height="100" align="left"></img>
+<img src="https://github.com/PlexOfDevs/PAC/blob/master/poggit-icon.png" width="100" height="100" align="left"></img>
 
 The First AntiCheat-Solution for PocketMine-MP! Continued in 2018-19!
 
