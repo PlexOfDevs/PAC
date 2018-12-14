@@ -1,0 +1,52 @@
+name: PAC
+main: PlexOfDevs\PAC\PAC
+version: 3.3.10
+load: STARTUP
+enable: STARTUP
+author: PlexOfDevs
+api: [3.0.0]
+commands:
+      plexanticheat:
+           description: Shows PlexAntiCheat version
+           aliases: ["PlexAntiCheat","AntiCheat","pac"]
+      pac:
+           description: Shows PlexAntiCheat version
+           aliases: ["PlexAntiCheat","AntiCheat","pac"]
+permissions:
+    legitop:
+        description: "A permission."
+        default: false
+    pac:
+        description: "Allows to use all PAC features."
+        default: false
+        children:
+            pac.admin:
+                description: "Get notified when someone is hacking."
+                default: op
+            pac.fly:
+                description: "A permission."
+                default: false
+            pac.glide:
+                description: "A permission."
+                default: false
+            pac.speed:
+                description: "A permission."
+                default: false
+            pac.noclip:
+                description: "A permission."
+                default: false
+            pac.reach:
+                description: "A permission."
+                default: false
+            pac.instantkill:
+                description: "A permission."
+                default: false
+            pac.killaura:
+                description: "A permission."
+                default: false
+            pac.regen:
+                description: "A permission."
+                default: false
+            pac.forcegamemode:
+                description: "A permission."
+                default: false
